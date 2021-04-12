@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.text-brand {
+  color: #1cc7c1;
+}
+.btn-brand {
+  background-image: linear-gradient(75deg, #19D3AE, #0fcfec);
+  border-color: transparent;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: white;
+}
+.btn-brand:hover {
+  background-image: linear-gradient(75deg, #10866f, #067586);
+  color: white;
+}
